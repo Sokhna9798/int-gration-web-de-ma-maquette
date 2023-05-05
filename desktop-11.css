@@ -1,0 +1,262 @@
+/* screen - desktop-11 */
+
+.desktop-11 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.desktop-11 .group-4 {
+  height: 71px;
+  left: 0;
+  min-width: 1440px;
+  position: fixed;
+  top: 0;
+  z-index: 4;
+}
+
+.desktop-11 .overlap-group2 {
+  height: 71px;
+  position: relative;
+  width: 1440px;
+}
+
+.desktop-11 .navbar {
+  height: 71px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop-11 .rectangle-1 {
+  background-color: var(--citrine);
+  cursor: pointer;
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 7px;
+  width: 1440px;
+}
+
+.desktop-11 .brown-simple-minimalist-cuisine-logo-1 {
+  height: 56px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 86px;
+}
+
+.desktop-11 .navbar-link-accueil {
+  cursor: pointer;
+  left: 363px;
+}
+
+.desktop-11 .navbar-link-services {
+  left: 483px;
+}
+
+.desktop-11 .navbar-link-actualits {
+  left: 603px;
+}
+
+.desktop-11 .navbar-link-a-propos {
+  height: 71px;
+  left: 723px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 131px;
+}
+
+.desktop-11 .navbar-link-place {
+  left: 843px;
+}
+
+.desktop-11 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 24px;
+  height: 36px;
+  left: 1195px;
+  min-width: 216px;
+  position: absolute;
+  top: 21px;
+}
+
+.desktop-11 .flex-row-item {
+  height: 36px;
+  object-fit: cover;
+  width: 36px;
+}
+
+.desktop-11 .overlap-group3 {
+  height: 350px;
+  margin-left: 4px;
+  margin-top: 71px;
+  position: relative;
+  width: 764px;
+  z-index: 2;
+}
+
+.desktop-11 .nom {
+  height: 86px;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  width: 152px;
+}
+
+.desktop-11 .overlap-group4 {
+  height: 289px;
+  left: 30px;
+  position: absolute;
+  top: 61px;
+  width: 734px;
+}
+
+.desktop-11 .rectangle-13 {
+  background-color: var(--cultured-pearl);
+  border: 1px solid;
+  border-color: var(--citrine);
+  border-radius: 10px;
+  height: 55px;
+  left: 54px;
+  position: absolute;
+  top: 0;
+  width: 676px;
+}
+
+.desktop-11 .email {
+  height: 86px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 152px;
+}
+
+.desktop-11 .rectangle-16 {
+  background-color: var(--cultured-pearl);
+  border: 1px solid;
+  border-color: var(--citrine);
+  border-radius: 10px;
+  height: 55px;
+  left: 54px;
+  position: absolute;
+  top: 82px;
+  width: 676px;
+}
+
+.desktop-11 .message {
+  height: 86px;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 108px;
+  width: 152px;
+}
+
+.desktop-11 .rectangle-17 {
+  background-color: var(--cultured-pearl);
+  border: 1px solid;
+  border-color: var(--citrine);
+  border-radius: 10px;
+  height: 123px;
+  left: 49px;
+  position: absolute;
+  top: 166px;
+  width: 685px;
+}
+
+.desktop-11 .group-77 {
+  margin-left: 88px;
+  margin-top: 11px;
+  min-width: 154px;
+  z-index: 3;
+}
+
+.desktop-11 .overlap-group1 {
+  height: 86px;
+  position: relative;
+  width: 152px;
+}
+
+.desktop-11 .rectangle-18 {
+  background-color: var(--citrine);
+  border: 1px solid;
+  border-radius: 10px;
+  height: 48px;
+  left: 18px;
+  position: absolute;
+  top: 24px;
+  width: 115px;
+}
+
+.desktop-11 .envoyer {
+  color: #fcfcfc;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  height: 86px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 152px;
+}
+
+.desktop-11 .group-37 {
+  margin-top: 413px;
+  min-width: 1442px;
+  z-index: 1;
+}
+
+.desktop-11 .overlap-group {
+  align-items: flex-end;
+  background-color: var(--citrine);
+  display: flex;
+  height: 93px;
+  min-width: 1440px;
+  padding: 26.6px 481.7px;
+}
+
+.desktop-11 .copyright-kenzas-20 {
+  height: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  width: 353px;
+}
+
+.desktop-11 .group {
+  align-items: flex-start;
+  display: flex;
+}
+
+.desktop-11 .navbar-link {
+  height: 71px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 131px;
+}

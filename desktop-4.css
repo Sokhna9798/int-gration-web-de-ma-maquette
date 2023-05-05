@@ -1,0 +1,196 @@
+/* screen - desktop-4 */
+
+.desktop-4 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.desktop-4 .group-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 84px;
+  left: 0;
+  min-width: 1440px;
+  position: fixed;
+  top: -13px;
+  z-index: 3;
+}
+
+.desktop-4 .navbar {
+  height: 84px;
+  position: relative;
+  width: 1440px;
+}
+
+.desktop-4 .rectangle-1 {
+  background-color: var(--citrine);
+  cursor: pointer;
+  height: 67px;
+  top: 9px;
+  width: 1440px;
+}
+
+.desktop-4 .brown-simple-minimalist-cuisine-logo-1 {
+  height: 62px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 86px;
+}
+
+.desktop-4 .frame-35 {
+  align-items: flex-start;
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+  left: 1195px;
+  position: absolute;
+  top: 24px;
+  width: fit-content;
+}
+
+.desktop-4 .frame-35-item {
+  height: 36px;
+  min-width: 36px;
+  object-fit: cover;
+  position: relative;
+}
+
+.desktop-4 .navbar-link-accueil {
+  cursor: pointer;
+  left: 363px;
+}
+
+.desktop-4 .navbar-link-services {
+  left: 483px;
+}
+
+.desktop-4 .navbar-link-actualits {
+  left: 603px;
+}
+
+.desktop-4 .navbar-link-a-propos {
+  height: 84px;
+  left: 723px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 131px;
+}
+
+.desktop-4 .navbar-link-place {
+  left: 843px;
+}
+
+.desktop-4 .group-40 {
+  align-items: center;
+  display: flex;
+  gap: 112px;
+  height: 428px;
+  margin-left: 26px;
+  margin-top: 225px;
+  min-width: 1125px;
+  z-index: 1;
+}
+
+.desktop-4 .group-14 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645399455e1791f6ddb85048/releases/6453a565b01039916046f1a9/img/t-l-chargement--5--1-2@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 111px;
+  min-height: 428px;
+  padding: 34.2px 33.7px;
+  width: 387px;
+}
+
+.desktop-4 .you-tube_dark_icon_2017-1 {
+  align-self: center;
+  height: 66px;
+  margin-right: 68.97px;
+  margin-top: 150px;
+  object-fit: cover;
+  width: 96px;
+}
+
+.desktop-4 .overlap-group {
+  height: 32px;
+  position: relative;
+  width: 95px;
+}
+
+.desktop-4 .rectangle-3 {
+  height: 32px;
+  top: 0;
+  width: 80px;
+}
+
+.desktop-4 .text-1 {
+  height: 24px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+  width: 75px;
+}
+
+.desktop-4 .ingrdients-un-dem {
+  height: 321px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 32.36px;
+  width: 626px;
+}
+
+.desktop-4 .group-37 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: -13px;
+  margin-top: 277px;
+  min-width: 1455px;
+  z-index: 2;
+}
+
+.desktop-4 .overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--citrine);
+  display: flex;
+  height: 94px;
+  min-width: 1453px;
+  padding: 27px 486px;
+}
+
+.desktop-4 .copyright-kenzas-20 {
+  height: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  width: 356px;
+}
+
+.desktop-4 .navbar-link {
+  height: 84px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 131px;
+}
+
+.desktop-4 .rectangle {
+  left: 0;
+  position: absolute;
+}

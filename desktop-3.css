@@ -1,0 +1,16 @@
+/* screen - desktop-3 */
+
+.desktop-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  width: 1440px;
+}
+
+.desktop-3 .group-63 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6453922569cdd9cf4fefc695/releases/6453bd0e3a50be4a5f53005b/img/desktop---1.png);
+  background-size: 100% 100%;
+  height: 2130px;
+  width: 1440px;
+}

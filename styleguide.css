@@ -1,0 +1,33 @@
+:root { 
+  --black: #000000;
+  --citrine: #904107;
+  --white: #ffffff;
+ 
+  --font-size-m: 15px;
+  --font-size-s: 13px;
+ 
+  --font-family-poppins: "Poppins", Helvetica;
+}
+.poppins-semi-bold-white-13px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.poppins-semi-bold-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.poppins-bold-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}

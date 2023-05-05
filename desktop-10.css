@@ -1,0 +1,144 @@
+/* screen - desktop-10 */
+
+.desktop-10 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.desktop-10 .group-4 {
+  height: 71px;
+  left: 0;
+  min-width: 1440px;
+  position: fixed;
+  top: 0;
+  z-index: 3;
+}
+
+.desktop-10 .navbar {
+  height: 71px;
+  position: relative;
+  width: 1440px;
+}
+
+.desktop-10 .rectangle-1 {
+  background-color: var(--citrine);
+  cursor: pointer;
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 7px;
+  width: 1440px;
+}
+
+.desktop-10 .brown-simple-minimalist-cuisine-logo-1 {
+  height: 56px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 86px;
+}
+
+.desktop-10 .frame-35 {
+  align-items: flex-start;
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+  left: 1195px;
+  position: absolute;
+  top: 21px;
+  width: fit-content;
+}
+
+.desktop-10 .frame-35-item {
+  height: 36px;
+  min-width: 36px;
+  object-fit: cover;
+  position: relative;
+}
+
+.desktop-10 .navbar-link-accueil {
+  cursor: pointer;
+  left: 363px;
+}
+
+.desktop-10 .navbar-link-services {
+  left: 483px;
+}
+
+.desktop-10 .navbar-link-actualits {
+  left: 603px;
+}
+
+.desktop-10 .navbar-link-a-propos {
+  height: 71px;
+  left: 723px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 131px;
+}
+
+.desktop-10 .navbar-link-place {
+  left: 843px;
+}
+
+.desktop-10 .bonjour-nous-sommes {
+  height: 462px;
+  letter-spacing: 0;
+  line-height: 33.2px;
+  margin-left: 114px;
+  margin-top: 126px;
+  width: 901px;
+  z-index: 1;
+}
+
+.desktop-10 .span1 {
+  line-height: 44.3px;
+}
+
+.desktop-10 .group-37 {
+  margin-top: 343px;
+  min-width: 1442px;
+  z-index: 2;
+}
+
+.desktop-10 .overlap-group {
+  align-items: flex-end;
+  background-color: var(--citrine);
+  display: flex;
+  height: 93px;
+  min-width: 1440px;
+  padding: 26.6px 481.7px;
+}
+
+.desktop-10 .copyright-kenzas-20 {
+  height: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  width: 353px;
+}
+
+.desktop-10 .group {
+  align-items: flex-start;
+  display: flex;
+}
+
+.desktop-10 .navbar-link {
+  height: 71px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 131px;
+}

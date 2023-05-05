@@ -1,0 +1,212 @@
+/* screen - desktop-8 */
+
+.desktop-8 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  width: 1440px;
+}
+
+.desktop-8 .desktop-6 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.desktop-8 .overlap-group1 {
+  height: 84px;
+  margin-top: -14px;
+  position: relative;
+  width: 1440px;
+}
+
+.desktop-8 .rectangle-1 {
+  background-color: var(--citrine);
+  cursor: pointer;
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 9px;
+  width: 1440px;
+}
+
+.desktop-8 .brown-simple-minimalist-cuisine-logo-1 {
+  height: 61px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 86px;
+}
+
+.desktop-8 .frame-35 {
+  gap: 24px;
+  left: 1195px;
+  position: absolute;
+  top: 24px;
+}
+
+.desktop-8 .frame-35-item {
+  height: 36px;
+  min-width: 36px;
+  object-fit: cover;
+  position: relative;
+}
+
+.desktop-8 .accueil {
+  cursor: pointer;
+  height: 84px;
+  left: 363px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 131px;
+}
+
+.desktop-8 .services {
+  height: 84px;
+  left: 483px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 131px;
+}
+
+.desktop-8 .actualits {
+  height: 84px;
+  left: 603px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 131px;
+}
+
+.desktop-8 .a-propos {
+  height: 84px;
+  left: 723px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 131px;
+}
+
+.desktop-8 .place {
+  height: 84px;
+  left: 843px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 131px;
+}
+
+.desktop-8 .frame-33 {
+  align-self: center;
+  gap: 144px;
+  margin-right: 252.35px;
+  margin-top: 164px;
+  position: relative;
+}
+
+.desktop-8 .group-32 {
+  height: 14.21px;
+  min-width: 53.65px;
+  position: relative;
+}
+
+.desktop-8 .group-13 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 56px;
+}
+
+.desktop-8 .text-1 {
+  height: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop-8 .group-76 {
+  height: 354px;
+  margin-right: -2.00px;
+  min-width: 686px;
+  position: relative;
+}
+
+.desktop-8 .overlap-group {
+  align-items: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6453922569cdd9cf4fefc695/releases/6453bd0e3a50be4a5f53005b/img/images--2--1-4@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  gap: 44px;
+  height: 354px;
+  left: 0;
+  min-width: 359px;
+  padding: 23.5px 40px;
+  position: absolute;
+  top: 0;
+}
+
+.desktop-8 .rectangle-3 {
+  align-self: flex-end;
+  height: 18px;
+  width: 57px;
+}
+
+.desktop-8 .icon-youtube {
+  height: 54px;
+  margin-bottom: 12.0px;
+  object-fit: cover;
+  width: 77px;
+}
+
+.desktop-8 .ingrdients-pour-2 {
+  height: 107px;
+  left: 503px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 181px;
+}
+
+.desktop-8 .overlap-group-1 {
+  align-items: flex-end;
+  background-color: var(--citrine);
+  display: flex;
+  height: 94px;
+  margin-top: 342px;
+  min-width: 1453px;
+  padding: 27px 486px;
+}
+
+.desktop-8 .copyright-kenzas-20 {
+  height: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  width: 356px;
+}
+
+.desktop-8 .frame {
+  align-items: flex-start;
+  display: flex;
+  justify-content: center;
+  width: fit-content;
+}

@@ -1,0 +1,378 @@
+/* screen - desktop-2 */
+
+.desktop-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 1369px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.desktop-2 .group-37 {
+  align-items: flex-start;
+  display: flex;
+  height: 94px;
+  left: -7px;
+  min-width: 1455px;
+  position: fixed;
+  top: 1275px;
+  z-index: 2;
+}
+
+.desktop-2 .overlap-group2 {
+  align-items: flex-end;
+  background-color: var(--citrine);
+  display: flex;
+  height: 94px;
+  min-width: 1453px;
+  padding: 27px 486px;
+}
+
+.desktop-2 .copyright-kenzas-20 {
+  height: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  width: 356px;
+}
+
+.desktop-2 .group-64 {
+  align-items: flex-start;
+  display: flex;
+  height: 720px;
+  justify-content: flex-end;
+  margin-top: 57px;
+  min-width: 1440px;
+  z-index: 1;
+}
+
+.desktop-2 .group-29 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 82px;
+  margin-top: 6.15px;
+  min-height: 672px;
+  padding: 0 0.0px;
+  width: 293px;
+}
+
+.desktop-2 .group-14 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6453922569cdd9cf4fefc695/releases/645392925e1791f6ddb84ffa/img/t-l-chargement--5--1-2@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 93px;
+  min-height: 358px;
+  padding: 28.7px 25.3px;
+  width: 291px;
+}
+
+.desktop-2 .icon-youtube {
+  align-self: center;
+  height: 55px;
+  margin-right: 51.78px;
+  margin-top: 126px;
+  object-fit: cover;
+  width: 72px;
+}
+
+.desktop-2 .overlap-group-1 {
+  height: 27px;
+  position: relative;
+  width: 71px;
+}
+
+.desktop-2 .rectangle-3 {
+  height: 27px;
+  top: 0;
+  width: 60px;
+}
+
+.desktop-2 .text-1 {
+  height: 20px;
+  left: 15px;
+  position: absolute;
+  top: 5px;
+  width: 56px;
+}
+
+.desktop-2 .ingrdients-un-dem {
+  height: 231px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1.08px;
+  width: 288px;
+}
+
+.desktop-2 .group-26 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 82px;
+  margin-left: 46px;
+  margin-top: 0;
+  min-height: 678px;
+  padding: 0 0.0px;
+  width: 346px;
+}
+
+.desktop-2 .group-container {
+  height: 358px;
+  margin-left: 1.77px;
+  position: relative;
+  width: 342px;
+}
+
+.desktop-2 .group-16 {
+  align-items: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6453922569cdd9cf4fefc695/releases/645392925e1791f6ddb84ffa/img/images--2--1-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  gap: 31px;
+  height: 358px;
+  left: 0;
+  min-width: 332px;
+  padding: 31.7px 41.2px;
+  position: absolute;
+  top: 0;
+}
+
+.desktop-2 .overlap-group {
+  align-self: flex-end;
+  height: 27px;
+  position: relative;
+  width: 71px;
+}
+
+.desktop-2 .text {
+  height: 20px;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+  width: 56px;
+}
+
+.desktop-2 .icon-youtube-1 {
+  margin-bottom: 6.15px;
+}
+
+.desktop-2 .group-15 {
+  align-items: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6453922569cdd9cf4fefc695/releases/645392925e1791f6ddb84ffa/img/croissants-au-jambon-fume-pesto-et-pepperoni-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  gap: 46px;
+  height: 358px;
+  left: 0;
+  min-width: 342px;
+  padding: 29.7px 54.3px;
+  position: absolute;
+  top: 0;
+}
+
+.desktop-2 .icon-youtube-2 {
+  margin-top: 6.14px;
+}
+
+.desktop-2 .ingrdients-12-croi {
+  height: 238px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 344px;
+}
+
+.desktop-2 .group-33 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 114px;
+  margin-left: 45px;
+  margin-top: 6.15px;
+  min-height: 586px;
+  width: 338px;
+}
+
+.desktop-2 .group-32 {
+  align-items: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6453922569cdd9cf4fefc695/releases/645392925e1791f6ddb84ffa/img/images--2--1-2@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  gap: 31px;
+  height: 363px;
+  margin-right: 2.0px;
+  min-width: 336px;
+  padding: 24.1px 37.5px;
+}
+
+.desktop-2 .overlap-group-2 {
+  align-self: flex-end;
+  height: 19px;
+  position: relative;
+  width: 64px;
+}
+
+.desktop-2 .rectangle-3-1 {
+  height: 19px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 54px;
+}
+
+.desktop-2 .text-4 {
+  height: 15px;
+  left: 13px;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.desktop-2 .you-tube_dark_icon_2017-4 {
+  margin-bottom: 12.29px;
+}
+
+.desktop-2 .ingrdients-pour-2 {
+  height: 110px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 7.62px;
+  width: 169px;
+}
+
+.desktop-2 .group-34 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 58px;
+  margin-bottom: 0;
+  margin-left: 46px;
+  min-height: 714px;
+  padding: 0 0.0px;
+  width: 328px;
+}
+
+.desktop-2 .overlap-group1 {
+  height: 356px;
+  margin-left: 4.21px;
+  position: relative;
+  width: 322px;
+}
+
+.desktop-2 .group-25 {
+  align-items: flex-end;
+  display: flex;
+  height: 207px;
+  justify-content: flex-end;
+  left: 42px;
+  min-width: 191px;
+  position: absolute;
+  top: 120px;
+}
+
+.desktop-2 .text-6 {
+  height: 15px;
+  margin-bottom: 0;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.desktop-2 .text-5 {
+  color: transparent;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-weight: 600;
+  height: 20px;
+  margin-bottom: 24.93px;
+  width: 56px;
+}
+
+.desktop-2 .you-tube_dark_icon_2017-5 {
+  align-self: flex-start;
+  margin-left: 12px;
+  margin-top: 0;
+}
+
+.desktop-2 .tlchargement-6-2 {
+  height: 356px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 322px;
+}
+
+.desktop-2 .overlap-group-3 {
+  height: 20px;
+  left: 39px;
+  position: absolute;
+  top: 285px;
+  width: 53px;
+}
+
+.desktop-2 .rectangle-4 {
+  background-color: var(--black);
+  border: 1px solid;
+  border-color: var(--white);
+  border-radius: 10px;
+  height: 18px;
+  top: 1px;
+  width: 53px;
+}
+
+.desktop-2 .text-7 {
+  height: 20px;
+  left: 15px;
+  position: absolute;
+  top: 0;
+  width: 38px;
+}
+
+.desktop-2 .you-tube_dark_icon_2017-5-1 {
+  height: 55px;
+  left: 140px;
+  object-fit: cover;
+  position: absolute;
+  top: 120px;
+  width: 72px;
+}
+
+.desktop-2 .ingredients-1-salad {
+  height: 299px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 316px;
+}
+
+.desktop-2 .icon-youtube-3 {
+  height: 55px;
+  object-fit: cover;
+  width: 72px;
+}
+
+.desktop-2 .rectangle {
+  left: 0;
+  position: absolute;
+}
+
+.desktop-2 .text-2 {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop-2 .you-tube_dark_icon_2017 {
+  height: 55px;
+  object-fit: cover;
+  width: 72px;
+}
